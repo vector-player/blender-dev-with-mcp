@@ -1,0 +1,16 @@
+{
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "useLibraryCodeForTypes": true,
+  "extraPaths": [
+    "D:/ProgramData/blender-addon/fake_bpy_modules_2.93-20230117"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "D:/ProgramData/blender-addon/fake_bpy_modules_2.93-20230117"
+      ]
+    }
+  ]
+}

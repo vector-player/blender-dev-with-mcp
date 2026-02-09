@@ -1,0 +1,41 @@
+{
+  "python.languageServer": "None",
+  "python.jediEnabled": false,
+  "cursorpyright.analysis.extrapaths": [
+    "D:/ProgramData/blender-addon/fake_bpy_modules_2.93-20230117"
+  ],
+  "cursorpyright.analysis.typeCheckingMode": "basic",
+  "cursorpyright.analysis.autoImportCompletions": true,
+  "cursorpyright.analysis.indexing": true,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.extraPaths": [
+    "D:/ProgramData/blender-addon/fake_bpy_modules_2.93-20230117"
+  ],
+  "python.analysis.stubPath": "D:/ProgramData/blender-addon/fake_bpy_modules_2.93-20230117",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true,
+    "rules": {
+      "namespace": "#4EC9B0",
+      "module": "#4EC9B0",
+      "class": "#4EC9B0",
+      "function": "#DCDCAA",
+      "variable": "#9CDCFE",
+      "parameter": "#9CDCFE",
+      "property": "#9CDCFE"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "entity.name.type.module.python",
+          "entity.name.namespace.python"
+        ],
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      }
+    ]
+  }
+}
